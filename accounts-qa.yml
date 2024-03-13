@@ -1,0 +1,16 @@
+build:
+  version: "v2.0"
+
+contact:
+  message: "Banck System - Accountas API"
+  details:
+    name: "Byron Peralta - QA Lead"
+    email: "byrapeve@gmail.com"
+  phone-numbers:
+    - (57) 310-345-08
+    - (57) 311-524-4815
+
+
+
+
+
