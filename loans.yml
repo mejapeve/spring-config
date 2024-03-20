@@ -2,7 +2,7 @@ build:
   version: "v3.0"
 
 contact:
-  message: "Banck System - Accounts API"
+  message: "Banck System - Loans API"
   details:
     name: "Melquis Jair Peralta Vega"
     email: "mejapeve@gmail.com"
