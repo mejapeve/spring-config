@@ -1,0 +1,16 @@
+build:
+  version: "v1.0"
+
+contact:
+  message: "Banck System - Accountas API"
+  details:
+    name: "Carlos Peralta - Product Owner"
+    email: "cagipeve@gmail.com"
+  phone-numbers:
+    - (57) 313-410-2204
+    - (57) 311-524-4815
+
+
+
+
+
